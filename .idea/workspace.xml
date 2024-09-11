@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73f692e3-98f5-4c36-bb61-e36404b507ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/servlet/AddClubPadel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/servlet/AddJugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/servlet/AddPista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/servlet/BorrarClubPadel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/servlet/BorrarJugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/servlet/BorrarPista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/servlet/EditarClubPadel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/servlet/EditarJugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/servlet/EditarPista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/add-club-padel.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/add-jugador.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/add-pista.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/buscar-club-padel.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/buscar-jugador.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/buscar-pista.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/detalle-club-padel.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/detalle-jugador.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/detalle-pista.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/editar-club-padel.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/editar-jugador.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/editar-pista.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/includes/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/list-jugador.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/list-pista.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/listar-club-padel.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/listar-jugadores.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/listar-pistas.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/svalero/padel/dao/ClubPadelDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/dao/ClubPadelDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/svalero/padel/dao/JugadorDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/dao/JugadorDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/svalero/padel/dao/PistaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/dao/PistaDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/svalero/padel/domain/Pista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/svalero/padel/domain/Pista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/includes/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/includes/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ltlXJD3BEuQCTobHkYRRrlWQJU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Juan Edo/Downloads/padel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Juan Edo\Downloads\padel\src\main\webapp" />
+      <recent name="C:\Users\Juan Edo\Downloads\padel\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Juan Edo\Downloads\padel\src\main\webapp\META-INF" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73f692e3-98f5-4c36-bb61-e36404b507ff" name="Changes" comment="" />
+      <created>1726007292482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726007292482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
